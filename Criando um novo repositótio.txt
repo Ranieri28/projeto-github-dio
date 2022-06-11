@@ -1,0 +1,8 @@
+Criando um novo repositório no git:
+
+1º - Nome
+2º - Deixar público
+3º - Selecione README file
+4º - Crie o repositório
+
+
