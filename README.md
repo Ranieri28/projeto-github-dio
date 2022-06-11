@@ -2,4 +2,4 @@
 Desafio git DIO
 
 ## Links Úteis
-[LinkedIn] (https://www.linkedin.com/in/ranieri-tecnologia/)
+[LinkedIn](https://www.linkedin.com/in/ranieri-tecnologia/)
